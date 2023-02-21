@@ -1,26 +1,24 @@
-name: Update IP every 30 minutes
+name: Scam
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   update-ip:
     runs-on: ubuntu-latest
     steps:
-      - name: Update IP address
+      - name: Scam
         run: "echo Current IP: $(curl -s https://ip8.com/ip) > README.md"
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          message: "Update IP address"
-          add: "README.md"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update IP address"
       - name: Push changes
-        uses: EndBug/push@v2
+        uses: ad-m/github-push-action@master
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
