@@ -16,7 +16,7 @@ jobs:
         run: |
           echo Current IP: $(curl -s https://ip8.com/ip) > README.md
           sudo apt install fortune
-          fortune
+          fortune > README.md
 
       - name: Commit and push changes
         run: |
