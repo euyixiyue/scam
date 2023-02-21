@@ -1,1 +1,1 @@
-You will be held hostage by a radical group.
+If you sow your wild oats, hope for a crop failure.
