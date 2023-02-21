@@ -1,2 +1,2 @@
-A kind of Batman of contemporary letters.
-		-- Philip Larkin on Anthony Burgess
+Your best consolation is the hope that the things you failed to get weren't
+really worth having.
