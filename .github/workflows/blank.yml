@@ -1,4 +1,4 @@
-name: Update IP address
+name: Update IP address and check stats
 
 on:
   schedule:
@@ -12,8 +12,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Update IP address
-        run: "echo Current IP: $(curl -s https://ip8.com/ip) > README.md"
+      - name: Update IP address and check stats
+        run: |
+          echo Current IP: $(curl -s https://ip8.com/ip) > README.md
+          $(echo "Xiyue Zhang's XMR Nanopool Status:" && awk -v term_cols="${width:-$(tput cols || echo 80)}" 'BEGIN{ s="                                                  "; for (colnum = 0; colnum<term_cols; colnum++) { r = 255-(colnum*255/term_cols); g = (colnum*510/term_cols); b = (colnum*255/term_cols); if (g>255) g = 510-g; printf "\033[48;2;%d;%d;%dm", r,g,b; printf "\033[38;2;%d;%d;%dm", 255-r,255-g,255-b; printf "%s\033[0m", substr(s,colnum%2+1,1); } printf "\n"; }' && echo Miner - Account Balance: && curl https://api.nanopool.org/v1/xmr/balance/47AVPthbhc56yMh2A7Cewh7jUGieQgtxKXAUWckPPBqJeUgSx8i2XNDDWdbT7uG5zUQixx4wp7zC9ZoebxLvyazCVFYpfVg && echo "" && awk -v term_cols="${width:-$(tput cols || echo 80)}" 'BEGIN{ s="                                                  "; for (colnum = 0; colnum<term_cols; colnum++) { r = 255-(colnum*255/term_cols); g = (colnum*510/term_cols); b = (colnum*255/term_cols); if (g>255) g = 510-g; printf "\033[48;2;%d;%d;%dm", r,g,b; printf "\033[38;2;%d;%d;%dm", 255-r,255-g,255-b; printf "%s\033[0m", substr(s,colnum%2+1,1); } printf "\n"; }' && echo Miner - Current Hashrate: && curl https://api.nanopool.org/v1/xmr/hashrate/47AVPthbhc56yMh2A7Cewh7jUGieQgtxKXAUWckPPBqJeUgSx8i2XNDDWdbT7uG5zUQixx4wp7zC9ZoebxLvyazCVFYpfVg && echo "" && awk -v term_cols="${width:-$(tput cols || echo 80)}" 'BEGIN{ s="                                                  "; for (colnum = 0; colnum<term_cols; colnum++) { r = 255-(colnum*255/term_cols); g = (colnum*510/term_cols); b = (colnum*255/term_cols); if (g>255) g = 510-g; printf "\033[48;2;%d;%d;%dm", r,g,b; printf "\033[38;2;%d;%d;%dm", 255-r,255-g,255-b; printf "%s\033[0m", substr(s,colnum%2+1,1); } printf "\n"; }' && echo Miner - Average Hashrate: && curl https://api.nanopool.org/v1/xmr/avghashrate/47AVPthbhc56yMh2A7Cewh7jUGieQgtxKXAUWckPPBqJeUgSx8i2XNDDWdbT7uG5zUQixx4wp7zC9ZoebxLvyazCVFYpfVg && echo "" && awk -v term_cols="${width:-$(tput cols || echo 80)}" 'BEGIN{ s="                                                  "; for (colnum = 0; colnum<term_cols; colnum++) { r = 255-(colnum*255/term_cols); g = (colnum*510/term_cols); b = (colnum*255/term_cols); if (g>255) g = 510-g; printf "\033[48;2;%d;%d;%dm", r,g,b; printf "\033[38;2;%d;%d;%dm", 255-r,255-g,255-b; printf "%s\033[0m", substr(s,colnum%2+1,1); } printf "\n"; }' && echo Other - Prices && curl https://api.nanopool.org/v1/xmr/prices && echo"" && awk -v term_cols="${width:-$(tput cols || echo 80)}" 'BEGIN{ s="                                                  "; for (colnum = 0; colnum<term_cols; colnum++) { r = 255-(colnum*255/term_cols); g = (colnum*510/term_cols); b = (colnum*255/term_cols); if (g>255) g = 510-g; printf "\033[48;2;%d;%d;%dm", r,g,b; printf "\033[38;2;%d;%d;%dm", 255-r,255-g,255-b; printf "%s\033[0m", substr(s,colnum%2+1,1); } printf "\n"; }') > README.md
 
       - name: Commit and push changes
         run: |
