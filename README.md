@@ -1,0 +1,2 @@
+# scam
+Just My Scam
