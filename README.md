@@ -1,1 +1,3 @@
-Don't tell any big lies today.  Small ones can be just as effective.
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21
+A:	Dr. Livingston I. Presume.
+Q:	What's Dr. Presume's full name?
