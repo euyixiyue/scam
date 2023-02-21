@@ -1,1 +1,2 @@
-You will be successful in love.
+A kind of Batman of contemporary letters.
+		-- Philip Larkin on Anthony Burgess
