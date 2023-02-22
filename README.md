@@ -1,1 +1,1 @@
-You are dishonest, but never to the point of hurting a friend.
+Don't read everything you believe.
