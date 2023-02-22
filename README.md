@@ -1,1 +1,1 @@
-You've been leading a dog's life.  Stay off the furniture.
+If you stand on your head, you will get footprints in your hair.
