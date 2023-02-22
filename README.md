@@ -1,1 +1,1 @@
-You enjoy the company of other people.
+Don't worry so loud, your roommate can't think.
