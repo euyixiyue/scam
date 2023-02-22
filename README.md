@@ -1,1 +1,1 @@
-Don't worry so loud, your roommate can't think.
+You are dishonest, but never to the point of hurting a friend.
