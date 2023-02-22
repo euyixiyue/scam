@@ -1,1 +1,1 @@
-You are fighting for survival in your own sweet and gentle way.
+Stay away from flying saucers today.
