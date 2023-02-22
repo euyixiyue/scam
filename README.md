@@ -1,1 +1,2 @@
-Your object is to save the world, while still leading a pleasant life.
+This was the most unkindest cut of all.
+		-- William Shakespeare, "Julius Caesar"
