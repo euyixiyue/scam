@@ -1,1 +1,1 @@
-Tuesday After Lunch is the cosmic time of the week.
+You're almost as happy as you think you are.
