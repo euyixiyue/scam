@@ -1,1 +1,1 @@
-You're almost as happy as you think you are.
+You enjoy the company of other people.
