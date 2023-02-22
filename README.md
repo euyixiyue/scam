@@ -1,1 +1,1 @@
-Stay away from flying saucers today.
+You will be the last person to buy a Chrysler.
