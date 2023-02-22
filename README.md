@@ -1,1 +1,1 @@
-Time to be aggressive.  Go after a tattooed Virgo.
+Tuesday After Lunch is the cosmic time of the week.
