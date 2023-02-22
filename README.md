@@ -1,1 +1,1 @@
-You are dishonest, but never to the point of hurting a friend.
+You've been leading a dog's life.  Stay off the furniture.
