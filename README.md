@@ -1,1 +1,1 @@
-You have an ambitious nature and may make a name for yourself.
+Your object is to save the world, while still leading a pleasant life.
