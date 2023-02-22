@@ -1,1 +1,1 @@
-Excellent time to become a missing person.
+Afternoon very favorable for romance.  Try a single person for a change.
