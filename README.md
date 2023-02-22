@@ -1,1 +1,2 @@
-Your depth of comprehension may tend to make you lax in worldly ways.
+Tomorrow, this will be part of the unchangeable past but fortunately,
+it can still be changed today.
