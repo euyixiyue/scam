@@ -1,1 +1,1 @@
-Cold hands, no gloves.
+Save energy: be apathetic.
