@@ -1,1 +1,1 @@
-Afternoon very favorable for romance.  Try a single person for a change.
+You're being followed.  Cut out the hanky-panky for a few days.
