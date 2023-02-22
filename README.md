@@ -1,2 +1,1 @@
-Q:	How many Martians does it take to screw in a light bulb?
-A:	One and a half.
+Time to be aggressive.  Go after a tattooed Virgo.
