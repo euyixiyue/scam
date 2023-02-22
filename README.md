@@ -1,1 +1,1 @@
-You're being followed.  Cut out the hanky-panky for a few days.
+You are dishonest, but never to the point of hurting a friend.
