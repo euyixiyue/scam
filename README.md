@@ -1,1 +1,1 @@
-Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
+Tonight's the night: Sleep in a eucalyptus tree.
