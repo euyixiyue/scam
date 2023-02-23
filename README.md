@@ -1,2 +1,1 @@
-Be cheerful while you are alive.
-		-- Phathotep, 24th Century B.C.
+Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
