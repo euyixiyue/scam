@@ -1,2 +1,2 @@
-Kindness is a language which the deaf can hear and the blind can read.
-		-- Mark Twain
+It is a wise father that knows his own child.
+		-- William Shakespeare, "The Merchant of Venice"
