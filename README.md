@@ -1,2 +1,1 @@
-Q:	What do they call the alphabet in Arkansas?
-A:	The impossible dream.
+You will experience a strong urge to do good; but it will pass.
