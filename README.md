@@ -1,1 +1,2 @@
-You will experience a strong urge to do good; but it will pass.
+Q:	Why do WASPs play golf ?
+A:	So they can dress like pimps.
