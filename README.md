@@ -1,1 +1,2 @@
-Tonight's the night: Sleep in a eucalyptus tree.
+Don't worry.  Life's too long.
+		-- Vincent Sardi, Jr.
