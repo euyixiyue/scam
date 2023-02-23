@@ -1,2 +1,3 @@
-You are scrupulously honest, frank, and straightforward.  Therefore you
-have few friends.
+The lunatic, the lover, and the poet,
+Are of imagination all compact...
+		-- Wm. Shakespeare, "A Midsummer Night's Dream"
