@@ -1,2 +1,1 @@
-Don't worry.  Life's too long.
-		-- Vincent Sardi, Jr.
+Excellent day for putting Slinkies on an escalator.
