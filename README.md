@@ -1,1 +1,1 @@
-You too can wear a nose mitten.
+You have Egyptian flu: you're going to be a mummy.
