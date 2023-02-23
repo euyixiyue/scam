@@ -1,2 +1,2 @@
-Give thought to your reputation.  Consider changing name and moving to
-a new town.
+You are scrupulously honest, frank, and straightforward.  Therefore you
+have few friends.
