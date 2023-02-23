@@ -1,2 +1,2 @@
-Better hope the life-inspector doesn't come around while you have your
-life in such a mess.
+Tell the truth or trump--but get the trick.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
