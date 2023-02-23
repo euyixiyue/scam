@@ -1,3 +1,2 @@
-Your manuscript is both good and original, but the part that is good is not
-original and the part that is original is not good.
-		-- Samuel Johnson
+Be free and open and breezy!  Enjoy!  Things won't get any better so
+get used to it.
