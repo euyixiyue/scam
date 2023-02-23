@@ -1,1 +1,2 @@
-Excellent day for putting Slinkies on an escalator.
+Don't Worry, Be Happy.
+		-- Meher Baba
