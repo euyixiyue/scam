@@ -1,1 +1,1 @@
-Never reveal your best argument.
+You would if you could but you can't so you won't.
