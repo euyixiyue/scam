@@ -1,2 +1,1 @@
-How apt the poor are to be proud.
-		-- William Shakespeare, "Twelfth-Night"
+You are farsighted, a good planner, an ardent lover, and a faithful friend.
