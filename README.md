@@ -1,1 +1,4 @@
-You are farsighted, a good planner, an ardent lover, and a faithful friend.
+"I understand this is your first dead client," Sabian was saying.  The
+absurdity of the statement made me want to laugh but they don't call me
+Deadpan Allie and lie.
+		-- Pat Cadigan, "Mindplayers"
