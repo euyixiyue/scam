@@ -1,1 +1,2 @@
-Tomorrow will be cancelled due to lack of interest.
+Don't Worry, Be Happy.
+		-- Meher Baba
