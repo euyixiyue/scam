@@ -1,1 +1,1 @@
-Are you a turtle?
+Good day to deal with people in high places; particularly lonely stewardesses.
