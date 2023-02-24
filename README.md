@@ -1,2 +1,1 @@
-"Life, loathe it or ignore it, you can't like it."
-		-- Marvin, "Hitchhiker's Guide to the Galaxy"
+Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
