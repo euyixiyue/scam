@@ -1,1 +1,2 @@
-Life is to you a dashing and bold adventure.
+How apt the poor are to be proud.
+		-- William Shakespeare, "Twelfth-Night"
