@@ -1,3 +1,3 @@
-Someone is speaking well of you.
-
-How unusual!
+Zounds!  I was never so bethumped with words
+since I first called my brother's father dad.
+		-- William Shakespeare, "Kind John"
