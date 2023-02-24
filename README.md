@@ -1,1 +1,1 @@
-You have Egyptian flu: you're going to be a mummy.
+Break into jail and claim police brutality.
