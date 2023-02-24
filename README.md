@@ -1,3 +1,2 @@
-Zounds!  I was never so bethumped with words
-since I first called my brother's father dad.
-		-- William Shakespeare, "Kind John"
+Be free and open and breezy!  Enjoy!  Things won't get any better so
+get used to it.
