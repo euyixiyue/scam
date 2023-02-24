@@ -1,2 +1,2 @@
-Q:	How many Martians does it take to screw in a light bulb?
-A:	One and a half.
+Q:	How was Thomas J. Watson buried?
+A:	9 edge down.
