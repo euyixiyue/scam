@@ -1,1 +1,2 @@
-You enjoy the company of other people.
+If you learn one useless thing every day, in a single year you'll learn
+365 useless things.
