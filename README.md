@@ -1,2 +1,2 @@
-If you learn one useless thing every day, in a single year you'll learn
-365 useless things.
+Q:	What is green and lives in the ocean?
+A:	Moby Pickle.
