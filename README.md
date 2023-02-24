@@ -1,1 +1,1 @@
-Break into jail and claim police brutality.
+A few hours grace before the madness begins again.
