@@ -1,2 +1,2 @@
-If you tell the truth you don't have to remember anything.
-		-- Mark Twain
+A kind of Batman of contemporary letters.
+		-- Philip Larkin on Anthony Burgess
