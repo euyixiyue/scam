@@ -1,1 +1,2 @@
-If you sow your wild oats, hope for a crop failure.
+You'll feel devilish tonight.  Toss dynamite caps under a flamenco dancer's
+heel.
