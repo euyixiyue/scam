@@ -1,1 +1,1 @@
-Tuesday is the Wednesday of the rest of your life.
+You will always get the greatest recognition for the job you least like.
