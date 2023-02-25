@@ -1,1 +1,3 @@
-Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
+Q:	How does a hacker fix a function which
+	doesn't work for all of the elements in its domain?
+A:	He changes the domain.
