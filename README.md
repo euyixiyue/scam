@@ -1,1 +1,1 @@
-You will always get the greatest recognition for the job you least like.
+Of course you have a purpose -- to find a purpose.
