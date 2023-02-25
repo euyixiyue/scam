@@ -1,1 +1,1 @@
-A visit to a fresh place will bring strange work.
+Your domestic life may be harmonious.
