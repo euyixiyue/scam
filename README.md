@@ -1,1 +1,2 @@
-You will be Told about it Tomorrow.  Go Home and Prepare Thyself.
+For courage mounteth with occasion.
+		-- William Shakespeare, "King John"
