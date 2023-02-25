@@ -1,2 +1,2 @@
-You are destined to become the commandant of the fighting men of the
-department of transportation.
+Conscience doth make cowards of us all.
+		-- Shakespeare
