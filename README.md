@@ -1,2 +1,2 @@
-For courage mounteth with occasion.
-		-- William Shakespeare, "King John"
+How apt the poor are to be proud.
+		-- William Shakespeare, "Twelfth-Night"
