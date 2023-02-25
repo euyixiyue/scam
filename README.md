@@ -1,1 +1,1 @@
-Avert misunderstanding by calm, poise, and balance.
+Beware of a dark-haired man with a loud tie.
