@@ -1,2 +1,2 @@
-Your analyst has you mixed up with another patient.  Don't believe a
-thing he tells you.
+Q:	What do you say to a New Yorker with a job?
+A:	Big Mac, fries and a Coke, please!
