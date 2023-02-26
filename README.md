@@ -1,1 +1,1 @@
-You will be advanced socially, without any special effort on your part.
+Abandon the search for Truth; settle for a good fantasy.
