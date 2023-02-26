@@ -1,1 +1,2 @@
-Excellent day for putting Slinkies on an escalator.
+Suspicion always haunts the guilty mind.
+		-- Wm. Shakespeare
