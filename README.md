@@ -1,3 +1,2 @@
-In the first place, God made idiots; this was for practice; then he made
-school boards.
-		-- Mark Twain
+Q:	Do you know what the death rate around here is?
+A:	One per person.
