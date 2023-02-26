@@ -1,1 +1,1 @@
-Time to be aggressive.  Go after a tattooed Virgo.
+Don't feed the bats tonight.
