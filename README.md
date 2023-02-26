@@ -1,2 +1,2 @@
-Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".
-		-- Shakespeare
+I dote on his very absence.
+		-- William Shakespeare, "The Merchant of Venice"
