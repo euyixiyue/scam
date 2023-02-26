@@ -1,1 +1,1 @@
-You are dishonest, but never to the point of hurting a friend.
+Artistic ventures highlighted.  Rob a museum.
