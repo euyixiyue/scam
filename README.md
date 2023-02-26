@@ -1,2 +1,1 @@
-Talkers are no good doers.
-		-- William Shakespeare, "Henry VI"
+Don't let your mind wander -- it's too little to be let out alone.
