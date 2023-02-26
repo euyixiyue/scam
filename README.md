@@ -1,1 +1,2 @@
-Don't let your mind wander -- it's too little to be let out alone.
+He that is giddy thinks the world turns round.
+		-- William Shakespeare, "The Taming of the Shrew"
