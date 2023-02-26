@@ -1,3 +1,3 @@
-Training is everything.  The peach was once a bitter almond; cauliflower is
-nothing but cabbage with a college education.
+Let us endeavor so to live that when we come to die even the undertaker will be
+sorry.
 		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
