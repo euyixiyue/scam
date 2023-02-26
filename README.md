@@ -1,1 +1,1 @@
-You will inherit millions of dollars.
+Give him an evasive answer.
