@@ -1,2 +1,2 @@
-Suspicion always haunts the guilty mind.
-		-- Wm. Shakespeare
+Talkers are no good doers.
+		-- William Shakespeare, "Henry VI"
