@@ -1,2 +1,2 @@
-Q:	Do you know what the death rate around here is?
-A:	One per person.
+The Public is merely a multiplied "me."
+		-- Mark Twain
