@@ -1,1 +1,1 @@
-Good news.  Ten weeks from Friday will be a pretty good day.
+There is a fly on your nose.
