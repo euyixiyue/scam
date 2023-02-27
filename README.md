@@ -1,1 +1,2 @@
-Many changes of mind and mood; do not hesitate too long.
+When in doubt, tell the truth.
+		-- Mark Twain
