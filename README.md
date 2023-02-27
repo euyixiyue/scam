@@ -1,1 +1,2 @@
-You may be gone tomorrow, but that doesn't mean that you weren't here today.
+You tread upon my patience.
+		-- William Shakespeare, "Henry IV"
