@@ -1,1 +1,2 @@
-There is a fly on your nose.
+No group of professionals meets except to conspire against the public at large.
+		-- Mark Twain
