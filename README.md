@@ -1,1 +1,1 @@
-Don't get stuck in a closet -- wear yourself out.
+Your own qualities will help prevent your advancement in the world.
