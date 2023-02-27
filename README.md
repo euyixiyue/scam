@@ -1,2 +1,1 @@
-Q:	How much does it cost to ride the Unibus?
-A:	2 bits.
+Live in a world of your own, but always welcome visitors.
