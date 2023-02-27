@@ -1,1 +1,1 @@
-So this is it.  We're going to die.
+You will remember something that you should not have forgotten.
