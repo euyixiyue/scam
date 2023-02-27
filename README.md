@@ -1,1 +1,1 @@
-Do nothing unless you must, and when you must act -- hesitate.
+Many changes of mind and mood; do not hesitate too long.
