@@ -1,1 +1,1 @@
-Live in a world of your own, but always welcome visitors.
+Do nothing unless you must, and when you must act -- hesitate.
