@@ -1,1 +1,2 @@
-Your present plans will be successful.
+All generalizations are false, including this one.
+		-- Mark Twain
