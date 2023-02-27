@@ -1,1 +1,1 @@
-You recoil from the crude; you tend naturally toward the exquisite.
+Good news.  Ten weeks from Friday will be a pretty good day.
