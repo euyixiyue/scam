@@ -1,3 +1,1 @@
-Zounds!  I was never so bethumped with words
-since I first called my brother's father dad.
-		-- William Shakespeare, "Kind John"
+It may or may not be worthwhile, but it still has to be done.
