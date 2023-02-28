@@ -1,1 +1,1 @@
-That secret you've been guarding, isn't.
+You have no real enemies.
