@@ -1,5 +1,3 @@
-Q:	Why did the chicken cross the road?
-A:	To see his friend Gregory peck.
-
-Q:	Why did the chicken cross the playground?
-A:	To get to the other slide.
+The mind is its own place, and in itself
+Can make a Heav'n of Hell, a Hell of Heav'n.
+		-- John Milton
