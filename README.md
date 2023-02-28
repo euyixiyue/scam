@@ -1,1 +1,2 @@
-The time is right to make new friends.
+The ripest fruit falls first.
+		-- William Shakespeare, "Richard II"
