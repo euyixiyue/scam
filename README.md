@@ -1,3 +1,2 @@
-You may my glories and my state dispose,
-But not my griefs; still am I king of those.
-		-- William Shakespeare, "Richard II"
+Q:	What's the difference between an Irish wedding and an Irish wake?
+A:	One less drunk.
