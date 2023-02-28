@@ -1,1 +1,1 @@
-Write yourself a threatening letter and pen a defiant reply.
+Among the lucky, you are the chosen one.
