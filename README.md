@@ -1,1 +1,5 @@
-An exotic journey in downtown Newark is in your future.
+Q:	Why did the chicken cross the road?
+A:	To see his friend Gregory peck.
+
+Q:	Why did the chicken cross the playground?
+A:	To get to the other slide.
