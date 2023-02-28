@@ -1,2 +1,1 @@
-You are destined to become the commandant of the fighting men of the
-department of transportation.
+You will step on the night soil of many countries.
