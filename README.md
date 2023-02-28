@@ -1,1 +1,2 @@
-You will be Told about it Tomorrow.  Go Home and Prepare Thyself.
+Having nothing, nothing can he lose.
+		-- William Shakespeare, "Henry VI"
