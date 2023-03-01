@@ -1,1 +1,2 @@
-Don't relax!  It's only your tension that's holding you together.
+Truth is the most valuable thing we have -- so let us economize it.
+		-- Mark Twain
