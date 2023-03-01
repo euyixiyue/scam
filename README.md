@@ -1,1 +1,1 @@
-Break into jail and claim police brutality.
+Your heart is pure, and your mind clear, and your soul devout.
