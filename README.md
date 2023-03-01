@@ -1,1 +1,1 @@
-You have an unusual equipment for success.  Be sure to use it properly.
+You're being followed.  Cut out the hanky-panky for a few days.
