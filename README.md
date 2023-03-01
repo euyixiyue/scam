@@ -1,1 +1,1 @@
-Tuesday is the Wednesday of the rest of your life.
+Don't relax!  It's only your tension that's holding you together.
