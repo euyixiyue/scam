@@ -1,1 +1,1 @@
-You will be winged by an anti-aircraft battery.
+Your lucky number is 3552664958674928.  Watch for it everywhere.
