@@ -1,3 +1,2 @@
-The lunatic, the lover, and the poet,
-Are of imagination all compact...
-		-- Wm. Shakespeare, "A Midsummer Night's Dream"
+Every cloud engenders not a storm.
+		-- William Shakespeare, "Henry VI"
