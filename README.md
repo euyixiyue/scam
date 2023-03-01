@@ -1,1 +1,2 @@
-Abandon the search for Truth; settle for a good fantasy.
+Conscience doth make cowards of us all.
+		-- Shakespeare
