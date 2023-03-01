@@ -1,1 +1,1 @@
-You will live a long, healthy, happy life and make bags of money.
+Excellent time to become a missing person.
