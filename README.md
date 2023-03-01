@@ -1,1 +1,1 @@
-Don't you wish you had more energy... or less ambition?
+Let me put it this way: today is going to be a learning experience.
