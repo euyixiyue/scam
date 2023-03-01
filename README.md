@@ -1,1 +1,1 @@
-You will be the last person to buy a Chrysler.
+Tuesday is the Wednesday of the rest of your life.
