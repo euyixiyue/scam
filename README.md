@@ -1,1 +1,1 @@
-You will gain money by an immoral action.
+You will be the last person to buy a Chrysler.
