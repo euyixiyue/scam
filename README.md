@@ -1,2 +1,1 @@
-Every cloud engenders not a storm.
-		-- William Shakespeare, "Henry VI"
+You have an unusual equipment for success.  Be sure to use it properly.
