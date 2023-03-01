@@ -1,1 +1,3 @@
-A gift of a flower will soon be made to you.
+The lunatic, the lover, and the poet,
+Are of imagination all compact...
+		-- Wm. Shakespeare, "A Midsummer Night's Dream"
