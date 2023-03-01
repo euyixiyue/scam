@@ -1,2 +1,1 @@
-Truth is the most valuable thing we have -- so let us economize it.
-		-- Mark Twain
+You'll never be the man your mother was!
