@@ -1,1 +1,2 @@
-Your heart is pure, and your mind clear, and your soul devout.
+Q:	What do you call a half-dozen Indians with Asian flu?
+A:	Six sick Sikhs (sic).
