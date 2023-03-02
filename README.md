@@ -1,1 +1,1 @@
-You will have domestic happiness and faithful friends.
+You will gain money by an immoral action.
