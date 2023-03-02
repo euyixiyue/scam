@@ -1,1 +1,1 @@
-If you can read this, you're too close.
+You dialed 5483.
