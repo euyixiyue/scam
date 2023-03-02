@@ -1,3 +1,2 @@
-Q:	"What is the burning question on the mind of every dyslexic
-	existentialist?"
-A:	"Is there a dog?"
+There is a great discovery still to be made in Literature: that of
+paying literary men by the quantity they do NOT write.
