@@ -1,1 +1,1 @@
-You will have long and healthy life.
+Don't plan any hasty moves.  You'll be evicted soon anyway.
