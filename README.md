@@ -1,1 +1,1 @@
-Your step will soil many countries.
+You will be traveling and coming into a fortune.
