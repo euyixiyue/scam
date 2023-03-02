@@ -1,1 +1,1 @@
-You will gain money by an immoral action.
+You will pass away very quickly.
