@@ -1,2 +1,1 @@
-Tomorrow, this will be part of the unchangeable past but fortunately,
-it can still be changed today.
+There is a fly on your nose.
