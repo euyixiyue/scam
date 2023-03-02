@@ -1,2 +1,2 @@
-Be careful of reading health books, you might die of a misprint.
-		-- Mark Twain
+Tomorrow, this will be part of the unchangeable past but fortunately,
+it can still be changed today.
