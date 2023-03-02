@@ -1,1 +1,1 @@
-There is a fly on your nose.
+You will have long and healthy life.
