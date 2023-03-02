@@ -1,2 +1,1 @@
-The human race has one really effective weapon, and that is laughter.
-		-- Mark Twain
+You would if you could but you can't so you won't.
