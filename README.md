@@ -1,1 +1,1 @@
-You will be traveling and coming into a fortune.
+You love your home and want it to be beautiful.
