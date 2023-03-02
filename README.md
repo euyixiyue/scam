@@ -1,1 +1,1 @@
-You will become rich and famous unless you don't.
+You will have domestic happiness and faithful friends.
