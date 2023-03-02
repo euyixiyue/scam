@@ -1,2 +1,2 @@
-What good is an obscenity trial except to popularize literature?
-		-- Nero Wolfe, "The League of Frightened Men"
+By trying we can easily learn to endure adversity.  Another man's, I mean.
+		-- Mark Twain
