@@ -1,2 +1,2 @@
-Extreme fear can neither fight nor fly.
-		-- William Shakespeare, "The Rape of Lucrece"
+The human race has one really effective weapon, and that is laughter.
+		-- Mark Twain
