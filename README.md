@@ -1,1 +1,4 @@
-Beware of low-flying butterflies.
+AWAKE! FEAR! FIRE! FOES! AWAKE!
+	FEAR! FIRE! FOES!
+		AWAKE! AWAKE!
+		-- J. R. R. Tolkien
