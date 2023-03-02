@@ -1,1 +1,1 @@
-Do something unusual today.  Pay a bill.
+Exercise caution in your daily affairs.
