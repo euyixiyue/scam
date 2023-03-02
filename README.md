@@ -1,1 +1,1 @@
-You will pass away very quickly.
+Do something unusual today.  Pay a bill.
