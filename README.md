@@ -1,1 +1,1 @@
-A gift of a flower will soon be made to you.
+You are a fluke of the universe; you have no right to be here.
