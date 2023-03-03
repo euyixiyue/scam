@@ -1,1 +1,1 @@
-You will pass away very quickly.
+You have an ambitious nature and may make a name for yourself.
