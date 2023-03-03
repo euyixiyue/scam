@@ -1,1 +1,1 @@
-Your mode of life will be changed for the better because of new developments.
+A gift of a flower will soon be made to you.
