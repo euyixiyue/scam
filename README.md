@@ -1,1 +1,2 @@
-You have an ambitious nature and may make a name for yourself.
+Patch griefs with proverbs.
+		-- William Shakespeare, "Much Ado About Nothing"
