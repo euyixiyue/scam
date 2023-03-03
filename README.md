@@ -1,1 +1,1 @@
-You never hesitate to tackle the most difficult problems.
+In the stairway of life, you'd best take the elevator.
