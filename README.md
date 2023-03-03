@@ -1,1 +1,5 @@
-You are a fluke of the universe; you have no right to be here.
+Q:	How do you catch a unique rabbit?
+A:	Unique up on it!
+
+Q:	How do you catch a tame rabbit?
+A:	The tame way!
