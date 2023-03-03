@@ -1,2 +1,1 @@
-Just because the message may never be received does not mean it is
-not worth sending.
+Tonight's the night: Sleep in a eucalyptus tree.
