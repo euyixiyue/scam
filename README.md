@@ -1,1 +1,1 @@
-You have no real enemies.
+A visit to a strange place will bring fresh work.
