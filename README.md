@@ -1,1 +1,1 @@
-You are always busy.
+Your ignorance cramps my conversation.
