@@ -1,1 +1,1 @@
-Caution: breathing may be hazardous to your health.
+Don't let your mind wander -- it's too little to be let out alone.
