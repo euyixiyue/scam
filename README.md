@@ -1,1 +1,1 @@
-A visit to a strange place will bring fresh work.
+This life is yours.  Some of it was given to you; the rest, you made yourself.
