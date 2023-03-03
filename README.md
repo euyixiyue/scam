@@ -1,1 +1,2 @@
-You have literary talent that you should take pains to develop.
+Something's rotten in the state of Denmark.
+		-- Shakespeare
