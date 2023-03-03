@@ -1,1 +1,1 @@
-You have an unusual understanding of the problems of human relationships.
+Beware of a tall blond man with one black shoe.
