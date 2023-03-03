@@ -1,1 +1,1 @@
-You own a dog, but you can only feed a cat.
+It may or may not be worthwhile, but it still has to be done.
