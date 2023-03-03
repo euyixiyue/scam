@@ -1,1 +1,5 @@
-In the stairway of life, you'd best take the elevator.
+Q:	Why did the chicken cross the road?
+A:	To see his friend Gregory peck.
+
+Q:	Why did the chicken cross the playground?
+A:	To get to the other slide.
