@@ -1,1 +1,1 @@
-Your ignorance cramps my conversation.
+Caution: breathing may be hazardous to your health.
