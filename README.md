@@ -1,1 +1,2 @@
-So this is it.  We're going to die.
+You are scrupulously honest, frank, and straightforward.  Therefore you
+have few friends.
