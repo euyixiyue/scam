@@ -1,1 +1,1 @@
-Future looks spotty.  You will spill soup in late evening.
+You have an ability to sense and know higher truth.
