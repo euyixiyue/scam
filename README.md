@@ -1,1 +1,1 @@
-Exercise caution in your daily affairs.
+Abandon the search for Truth; settle for a good fantasy.
