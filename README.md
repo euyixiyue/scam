@@ -1,1 +1,1 @@
-Courage is your greatest present need.
+Future looks spotty.  You will spill soup in late evening.
