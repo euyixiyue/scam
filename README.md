@@ -1,1 +1,2 @@
-You are sick, twisted and perverted.  I like that in a person.
+Q:	How many college football players does it take to screw in a light bulb?
+A:	Only one, but he gets three credits for it.
