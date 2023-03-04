@@ -1,1 +1,2 @@
-You will not be elected to public office this year.
+question = ( to ) ? be : ! be;
+		-- Wm. Shakespeare
