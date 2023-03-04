@@ -1,1 +1,1 @@
-Don't get to bragging.
+Your true value depends entirely on what you are compared with.
