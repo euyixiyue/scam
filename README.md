@@ -1,1 +1,1 @@
-You will attract cultured and artistic people to your home.
+Don't go surfing in South Dakota for a while.
