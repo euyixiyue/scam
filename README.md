@@ -1,1 +1,2 @@
-Your true value depends entirely on what you are compared with.
+English literature's performing flea.
+		-- Sean O'Casey on P. G. Wodehouse
