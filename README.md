@@ -1,2 +1,3 @@
-You learn to write as if to someone else because NEXT YEAR YOU WILL BE
-"SOMEONE ELSE."
+Whenever you find that you are on the side of the majority, it is time
+to reform.
+		-- Mark Twain
