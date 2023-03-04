@@ -1,1 +1,1 @@
-You will pioneer the first Martian colony.
+Don't get to bragging.
