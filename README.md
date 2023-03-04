@@ -1,2 +1,1 @@
-Fine day for friends.
-So-so day for you.
+Courage is your greatest present need.
