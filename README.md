@@ -1,1 +1,1 @@
-You have an ability to sense and know higher truth.
+You will attract cultured and artistic people to your home.
