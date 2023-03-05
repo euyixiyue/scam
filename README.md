@@ -1,1 +1,4 @@
-Never look up when dragons fly overhead.
+F.S. Fitzgerald to Hemingway:
+	"Ernest, the rich are different from us."
+Hemingway:
+	"Yes.  They have more money."
