@@ -1,1 +1,2 @@
-You will visit the Dung Pits of Glive soon.
+Alas, how love can trifle with itself!
+		-- William Shakespeare, "The Two Gentlemen of Verona"
