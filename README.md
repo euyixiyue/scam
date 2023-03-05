@@ -1,1 +1,1 @@
-Today is what happened to yesterday.
+You will pass away very quickly.
