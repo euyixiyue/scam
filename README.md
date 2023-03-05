@@ -1,1 +1,1 @@
-Communicate!  It can't make things any worse.
+Give him an evasive answer.
