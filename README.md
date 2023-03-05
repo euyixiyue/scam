@@ -1,1 +1,2 @@
-You are magnetic in your bearing.
+Don't worry.  Life's too long.
+		-- Vincent Sardi, Jr.
