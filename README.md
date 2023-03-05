@@ -1,1 +1,1 @@
-A few hours grace before the madness begins again.
+You have a deep interest in all that is artistic.
