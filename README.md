@@ -1,1 +1,1 @@
-You will reach the highest possible point in your business or profession.
+You have the capacity to learn from mistakes.  You'll learn a lot today.
