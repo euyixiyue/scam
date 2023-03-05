@@ -1,2 +1,1 @@
-Q:	What's buried in Grant's tomb?
-A:	A corpse.
+You're ugly and your mother dresses you funny.
