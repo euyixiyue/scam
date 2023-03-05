@@ -1,1 +1,3 @@
-Your aims are high, and you are capable of much.
+You never have to change anything you got up in the middle of the night
+to write.
+		-- Saul Bellow
