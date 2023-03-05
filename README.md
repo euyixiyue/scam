@@ -1,1 +1,2 @@
-Don't you wish you had more energy... or less ambition?
+Extreme fear can neither fight nor fly.
+		-- William Shakespeare, "The Rape of Lucrece"
