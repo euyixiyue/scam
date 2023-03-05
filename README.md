@@ -1,1 +1,1 @@
-You've been leading a dog's life.  Stay off the furniture.
+You never hesitate to tackle the most difficult problems.
