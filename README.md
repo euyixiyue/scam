@@ -1,1 +1,1 @@
-You're ugly and your mother dresses you funny.
+A few hours grace before the madness begins again.
