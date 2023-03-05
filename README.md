@@ -1,2 +1,2 @@
-Alas, how love can trifle with itself!
-		-- William Shakespeare, "The Two Gentlemen of Verona"
+There is no distinctly native American criminal class except Congress.
+		-- Mark Twain
