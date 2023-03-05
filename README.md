@@ -1,1 +1,2 @@
-You are the only person to ever get this message.
+Things past redress and now with me past care.
+		-- William Shakespeare, "Richard II"
