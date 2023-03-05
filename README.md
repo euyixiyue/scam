@@ -1,2 +1,3 @@
-Next Friday will not be your lucky day.  As a matter of fact, you don't
-have a lucky day this year.
+If one cannot enjoy reading a book over and over again, there is no use
+in reading it at all.
+		-- Oscar Wilde
