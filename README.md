@@ -1,2 +1,1 @@
-Extreme fear can neither fight nor fly.
-		-- William Shakespeare, "The Rape of Lucrece"
+Everything that you know is wrong, but you can be straightened out.
