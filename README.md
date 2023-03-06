@@ -1,2 +1,1 @@
-Never laugh at live dragons.
-		-- Bilbo Baggins [J.R.R. Tolkien, "The Hobbit"]
+You're working under a slight handicap.  You happen to be human.
