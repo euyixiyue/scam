@@ -1,1 +1,1 @@
-You will be awarded a medal for disregarding safety in saving someone.
+There was a phone call for you.
