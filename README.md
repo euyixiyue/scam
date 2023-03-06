@@ -1,1 +1,2 @@
-You have the body of a 19 year old.  Please return it before it gets wrinkled.
+You learn to write as if to someone else because NEXT YEAR YOU WILL BE
+"SOMEONE ELSE."
