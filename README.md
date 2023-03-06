@@ -1,1 +1,2 @@
-You are dishonest, but never to the point of hurting a friend.
+Fine day for friends.
+So-so day for you.
