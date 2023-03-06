@@ -1,1 +1,1 @@
-A few hours grace before the madness begins again.
+You will be awarded a medal for disregarding safety in saving someone.
