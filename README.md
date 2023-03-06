@@ -1,2 +1,1 @@
-But, for my own part, it was Greek to me.
-		-- William Shakespeare, "Julius Caesar"
+Q:	How do you keep a moron in suspense?
