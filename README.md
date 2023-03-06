@@ -1,2 +1,2 @@
-Q:	Why did the tachyon cross the road?
-A:	Because it was on the other side.
+Q:	Why did the lone ranger kill Tonto?
+A:	He found out what "kimosabe" really means.
