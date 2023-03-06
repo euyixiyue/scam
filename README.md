@@ -1,1 +1,1 @@
-Q:	How do you keep a moron in suspense?
+A few hours grace before the madness begins again.
