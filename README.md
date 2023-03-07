@@ -1,1 +1,1 @@
-Your sister swims out to meet troop ships.
+Today is the first day of the rest of the mess.
