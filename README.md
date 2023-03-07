@@ -1,3 +1,3 @@
-It is by the fortune of God that, in this country, we have three benefits:
-freedom of speech, freedom of thought, and the wisdom never to use either.
+The only way to keep your health is to eat what you don't want, drink what
+you don't like, and do what you'd rather not.
 		-- Mark Twain
