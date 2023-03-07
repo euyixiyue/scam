@@ -1,1 +1,2 @@
-You would if you could but you can't so you won't.
+Wagner's music is better than it sounds.
+		-- Mark Twain
