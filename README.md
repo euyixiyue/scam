@@ -1,2 +1,3 @@
-Be cheerful while you are alive.
-		-- Phathotep, 24th Century B.C.
+Noise proves nothing.  Often a hen who has merely laid an egg cackles
+as if she laid an asteroid.
+		-- Mark Twain
