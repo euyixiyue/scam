@@ -1,1 +1,2 @@
-Today is the first day of the rest of the mess.
+Your best consolation is the hope that the things you failed to get weren't
+really worth having.
