@@ -1,1 +1,1 @@
-You will become rich and famous unless you don't.
+Cheer Up!  Things are getting worse at a slower rate.
