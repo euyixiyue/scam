@@ -1,2 +1,1 @@
-Q:	How was Thomas J. Watson buried?
-A:	9 edge down.
+You would if you could but you can't so you won't.
