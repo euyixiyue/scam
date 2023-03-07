@@ -1,4 +1,2 @@
-The holy passion of Friendship is of so sweet and steady and loyal and
-enduring a nature that it will last through a whole lifetime, if not asked to
-lend money.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Q:	What's the difference between a Mac and an Etch-a-Sketch?
+A:	You don't have to shake the Mac to clear the screen.
