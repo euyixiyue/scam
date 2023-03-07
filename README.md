@@ -1,1 +1,2 @@
-Cheer Up!  Things are getting worse at a slower rate.
+Be cheerful while you are alive.
+		-- Phathotep, 24th Century B.C.
