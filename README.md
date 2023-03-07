@@ -1,2 +1,2 @@
-Q:	Why do WASPs play golf ?
-A:	So they can dress like pimps.
+You are destined to become the commandant of the fighting men of the
+department of transportation.
