@@ -1,1 +1,1 @@
-You will obey or molten silver will be poured into your ears.
+Many changes of mind and mood; do not hesitate too long.
