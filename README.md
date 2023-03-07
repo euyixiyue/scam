@@ -1,1 +1,1 @@
-You may be recognized soon.  Hide.
+You will become rich and famous unless you don't.
