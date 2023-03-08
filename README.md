@@ -1,2 +1,1 @@
-Q:	Why did the tachyon cross the road?
-A:	Because it was on the other side.
+Celebrate Hannibal Day this year.  Take an elephant to lunch.
