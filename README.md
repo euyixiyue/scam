@@ -1,2 +1,3 @@
-Repartee is something we think of twenty-four hours too late.
-		-- Mark Twain
+Q:	Why is it that the more accuracy you demand from an interpolation
+	function, the more expensive it becomes to compute?
+A:	That's the Law of Spline Demand.
