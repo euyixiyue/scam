@@ -1,8 +1,9 @@
-For the fashion of Minas Tirith was such that it was built on seven levels,
-each delved into a hill, and about each was set a wall, and in each wall
-was a gate.
-		-- J.R.R. Tolkien, "The Return of the King"
+Q:	How many DEC repairman does it take to fix a flat?
+A:	Five; four to hold the car up and one to swap tires.
 
-	[Quoted in "VMS Internals and Data Structures", V4.4, when
-	 referring to system overview.]
+Q:	How long does it take?
+A:	It's indeterminate.
+	It will depend upon how many flats they've brought with them.
 
+Q:	What happens if you've got TWO flats?
+A:	They replace your generator.
