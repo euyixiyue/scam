@@ -1,1 +1,2 @@
-You have taken yourself too seriously.
+The surest protection against temptation is cowardice.
+		-- Mark Twain
