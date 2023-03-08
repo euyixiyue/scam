@@ -1,1 +1,2 @@
-You are dishonest, but never to the point of hurting a friend.
+Repartee is something we think of twenty-four hours too late.
+		-- Mark Twain
