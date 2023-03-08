@@ -1,2 +1,8 @@
-There is a great discovery still to be made in Literature: that of
-paying literary men by the quantity they do NOT write.
+For the fashion of Minas Tirith was such that it was built on seven levels,
+each delved into a hill, and about each was set a wall, and in each wall
+was a gate.
+		-- J.R.R. Tolkien, "The Return of the King"
+
+	[Quoted in "VMS Internals and Data Structures", V4.4, when
+	 referring to system overview.]
+
