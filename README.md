@@ -1,2 +1,2 @@
-Q:	How can you tell when a Burroughs salesman is lying?
-A:	When his lips move.
+You'll feel devilish tonight.  Toss dynamite caps under a flamenco dancer's
+heel.
