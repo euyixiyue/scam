@@ -1,1 +1,1 @@
-You will get what you deserve.
+Your business will assume vast proportions.
