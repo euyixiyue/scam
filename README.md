@@ -1,3 +1,1 @@
-The lunatic, the lover, and the poet,
-Are of imagination all compact...
-		-- Wm. Shakespeare, "A Midsummer Night's Dream"
+You have an unusual equipment for success.  Be sure to use it properly.
