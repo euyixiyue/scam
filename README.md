@@ -1,1 +1,1 @@
-You will wish you hadn't.
+You are not dead yet.  But watch for further reports.
