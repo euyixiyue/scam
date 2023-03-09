@@ -1,1 +1,1 @@
-You're definitely on their list.  The question to ask next is what list it is.
+And do you think (fop that I am) that I could be the Scarlet Pumpernickel?
