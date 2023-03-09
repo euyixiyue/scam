@@ -1,2 +1,1 @@
-Q:	How many marketing people does it take to change a light bulb?
-A:	I'll have to get back to you on that.
+You will live a long, healthy, happy life and make bags of money.
