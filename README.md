@@ -1,2 +1,1 @@
-Q:	Do you know what the death rate around here is?
-A:	One per person.
+You'll be called to a post requiring ability in handling groups of people.
