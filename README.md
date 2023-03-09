@@ -1,3 +1,2 @@
-The mind is its own place, and in itself
-Can make a Heav'n of Hell, a Hell of Heav'n.
-		-- John Milton
+You will lose your present job and have to become a door to door mayonnaise
+salesman.
