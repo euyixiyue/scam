@@ -1,3 +1,1 @@
-A hundred years from now it is very likely that [of Twain's works] "The
-Jumping Frog" alone will be remembered.
-		-- Harry Thurston Peck (Editor of "The Bookman"), January 1901.
+You worry too much about your job.  Stop it.  You are not paid enough to worry.
