@@ -1,1 +1,1 @@
-You have an ambitious nature and may make a name for yourself.
+If your life was a horse, you'd have to shoot it.
