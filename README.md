@@ -1,1 +1,1 @@
-Today is the tomorrow you worried about yesterday.
+Don't look now, but there is a multi-legged creature on your shoulder.
