@@ -1,1 +1,1 @@
-You will be audited by the Internal Revenue Service.
+You are a fluke of the universe; you have no right to be here.
