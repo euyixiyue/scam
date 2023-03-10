@@ -1,3 +1,2 @@
-You never have to change anything you got up in the middle of the night
-to write.
-		-- Saul Bellow
+Q:	What do you get when you cross the Godfather with an attorney?
+A:	An offer you can't understand.
