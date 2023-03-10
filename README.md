@@ -1,1 +1,1 @@
-You are a fluke of the universe; you have no right to be here.
+You have a deep appreciation of the arts and music.
