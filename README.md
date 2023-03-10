@@ -1,1 +1,2 @@
-You will be awarded some great honor.
+Q:	What do you call a boomerang that doesn't come back?
+A:	A stick.
