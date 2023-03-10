@@ -1,1 +1,2 @@
-You have a deep appreciation of the arts and music.
+Having nothing, nothing can he lose.
+		-- William Shakespeare, "Henry VI"
