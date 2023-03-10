@@ -1,1 +1,1 @@
-You get along very well with everyone except animals and people.
+You will gain money by a speculation or lottery.
