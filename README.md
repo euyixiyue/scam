@@ -1,1 +1,1 @@
-Your boyfriend takes chocolate from strangers.
+What happened last night can happen again.
