@@ -1,2 +1,2 @@
-What I tell you three times is true.
-		-- Lewis Carroll
+Many pages make a thick book, except for pocket Bibles which are on very
+very thin paper.
