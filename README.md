@@ -1,1 +1,3 @@
-Don't look now, but the man in the moon is laughing at you.
+You may my glories and my state dispose,
+But not my griefs; still am I king of those.
+		-- William Shakespeare, "Richard II"
