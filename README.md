@@ -1,1 +1,3 @@
-You enjoy the company of other people.
+You never have to change anything you got up in the middle of the night
+to write.
+		-- Saul Bellow
