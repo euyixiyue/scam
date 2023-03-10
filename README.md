@@ -1,1 +1,2 @@
-Among the lucky, you are the chosen one.
+Wagner's music is better than it sounds.
+		-- Mark Twain
