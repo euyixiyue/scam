@@ -1,2 +1,2 @@
-The surest protection against temptation is cowardice.
-		-- Mark Twain
+You learn to write as if to someone else because NEXT YEAR YOU WILL BE
+"SOMEONE ELSE."
