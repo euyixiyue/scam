@@ -1,1 +1,2 @@
-Don't relax!  It's only your tension that's holding you together.
+Rebellion lay in his way, and he found it.
+		-- William Shakespeare, "Henry IV"
