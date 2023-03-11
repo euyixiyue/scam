@@ -1,2 +1,2 @@
-"Life, loathe it or ignore it, you can't like it."
-		-- Marvin, "Hitchhiker's Guide to the Galaxy"
+Every cloud engenders not a storm.
+		-- William Shakespeare, "Henry VI"
