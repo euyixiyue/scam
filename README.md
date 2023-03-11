@@ -1,1 +1,1 @@
-Beware of Bigfoot!
+You will wish you hadn't.
