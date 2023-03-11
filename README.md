@@ -1,4 +1,5 @@
-In Marseilles they make half the toilet soap we consume in America, but
-the Marseillaise only have a vague theoretical idea of its use, which they
-have obtained from books of travel.
-		-- Mark Twain
+Knock, knock!
+	Who's there?
+Sam and Janet.
+	Sam and Janet who?
+Sam and Janet Evening...
