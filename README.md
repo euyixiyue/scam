@@ -1,1 +1,2 @@
-Artistic ventures highlighted.  Rob a museum.
+The surest protection against temptation is cowardice.
+		-- Mark Twain
