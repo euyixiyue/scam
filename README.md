@@ -1,1 +1,1 @@
-You will pass away very quickly.
+Tomorrow will be cancelled due to lack of interest.
