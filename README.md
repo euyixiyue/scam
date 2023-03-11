@@ -1,2 +1,1 @@
-Many pages make a thick book, except for pocket Bibles which are on very
-very thin paper.
+A gift of a flower will soon be made to you.
