@@ -1,1 +1,2 @@
-Never give an inch!
+A is for Apple.
+		-- Hester Pryne
