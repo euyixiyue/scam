@@ -1,3 +1,4 @@
-It is often the case that the man who can't tell a lie thinks he is the best
-judge of one.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+All I know is what the words know, and dead things, and that
+makes a handsome little sum, with a beginning and a middle and
+an end, as in the well-built phrase and the long sonata of the dead.
+		-- Samuel Beckett
