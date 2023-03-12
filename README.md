@@ -1,1 +1,2 @@
-You can rent this space for only $5 a week.
+When in doubt, tell the truth.
+		-- Mark Twain
