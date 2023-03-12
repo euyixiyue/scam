@@ -1,1 +1,2 @@
-You will inherit some money or a small piece of land.
+question = ( to ) ? be : ! be;
+		-- Wm. Shakespeare
