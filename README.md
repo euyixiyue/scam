@@ -1,3 +1,2 @@
-The difference between the right word and the almost right word is the
-difference between lightning and the lightning bug.
-		-- Mark Twain
+For a light heart lives long.
+		-- Shakespeare, "Love's Labour's Lost"
