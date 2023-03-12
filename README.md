@@ -1,1 +1,1 @@
-Your boss is a few sandwiches short of a picnic.
+Don't worry so loud, your roommate can't think.
