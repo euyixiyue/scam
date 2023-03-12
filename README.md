@@ -1,1 +1,2 @@
-You will gain money by a speculation or lottery.
+"You have been in Afghanistan, I perceive."
+		-- Sir Arthur Conan Doyle, "A Study in Scarlet"
