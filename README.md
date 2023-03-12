@@ -1,2 +1,1 @@
-You have a reputation for being thoroughly reliable and trustworthy.
-A pity that it's totally undeserved.
+You will inherit some money or a small piece of land.
