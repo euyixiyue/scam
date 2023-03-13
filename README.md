@@ -1,3 +1,2 @@
-He draweth out the thread of his verbosity finer than the staple of his
-argument.
+They have been at a great feast of languages, and stolen the scraps.
 		-- William Shakespeare, "Love's Labour's Lost"
