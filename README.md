@@ -1,3 +1,2 @@
-A long-forgotten loved one will appear soon.
-
-Buy the negatives at any price.
+Q:	What is printed on the bottom of beer bottles in Minnesota?
+A:	Open other end.
