@@ -1,1 +1,1 @@
-You have many friends and very few living enemies.
+You will attract cultured and artistic people to your home.
