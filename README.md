@@ -1,1 +1,1 @@
-You have an unusual understanding of the problems of human relationships.
+You will inherit some money or a small piece of land.
