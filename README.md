@@ -1,1 +1,1 @@
-You will soon meet a person who will play an important role in your life.
+Good news.  Ten weeks from Friday will be a pretty good day.
