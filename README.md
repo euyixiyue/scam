@@ -1,1 +1,1 @@
-You have a strong appeal for members of your own sex.
+If you can read this, you're too close.
