@@ -1,1 +1,1 @@
-Don't kiss an elephant on the lips today.
+Go to a movie tonight.  Darkness becomes you.
