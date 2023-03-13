@@ -1,1 +1,1 @@
-You will inherit some money or a small piece of land.
+You will have a long and boring life.
