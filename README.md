@@ -1,5 +1,2 @@
-April 1
-
-This is the day upon which we are reminded of what we are on the other three
-hundred and sixty-four.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+You'll wish that you had done some of the hard things when they were easier
+to do.
