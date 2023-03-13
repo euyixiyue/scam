@@ -1,1 +1,2 @@
-Beware of low-flying butterflies.
+Today's weirdness is tomorrow's reason why.
+		-- Hunter S. Thompson
