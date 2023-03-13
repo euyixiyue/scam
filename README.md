@@ -1,1 +1,1 @@
-You will have a long and boring life.
+People are beginning to notice you.  Try dressing before you leave the house.
