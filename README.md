@@ -1,2 +1,3 @@
-You'll wish that you had done some of the hard things when they were easier
-to do.
+Many a writer seems to think he is never profound except when he can't
+understand his own meaning.
+		-- George D. Prentice
