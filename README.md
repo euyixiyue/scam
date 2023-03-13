@@ -1,2 +1,3 @@
-Your motives for doing whatever good deed you may have in mind will be
-misinterpreted by somebody.
+A classic is something that everyone wants to have read
+and nobody wants to read.
+		-- Mark Twain, "The Disappearance of Literature"
